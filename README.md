@@ -1,5 +1,9 @@
 # AbigailOvos — download
 
+[![Site](https://img.shields.io/badge/Site-Abrir-134937?style=flat-square)](https://abigailovossite.vercel.app)
+[![APK](https://img.shields.io/badge/APK-181%20MB-D9B956?style=flat-square)](https://github.com/Denilson-Marrengula/AbigailOvosSite/releases/download/Abigail_app/app-debug.apk)
+[![Versao](https://img.shields.io/badge/Versao-debug-blue?style=flat-square)](https://github.com/Denilson-Marrengula/AbigailOvosSite/releases/tag/Abigail_app)
+
 Página de download da aplicação Android **AbigailOvos**.
 
 👉 [Abrir a página](https://abigailovossite.vercel.app)
